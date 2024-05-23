@@ -1,11 +1,8 @@
 {
-  "ip": "93.176.144.126",
-  "hostname": "Isaac Gonzalez Gracia",
-  "city": "Berga",
-  "region": "Barcelona",
-  "country": "CAT",
-  "loc": "41.3888,2.1590",
-  "org": "AS15704 XTRA TELECOM S.A.",
-  "postal": "08007",
-  "data": [1,3,5,7,9,11,13,15,17,19,21,23,25,27]
+  "org": "Institut Lacetania de Manresa",
+  "professor": "Isaac Gonzalez Gracia",
+  "modul": "MP10",
+  "tipusdades": "Notes finals modul",
+  "alumnes" : ["8730L","3505Q","9487G","4665B","4723F","2592G","0249C","1079J","5185D","7948R","1098G","9207F","6038M","2732L","1197F","8170N","8170N","6411Z","3733P"],
+  "dades": [3,4,2,3,4,1,2,3,4,3,2,3,4,1,2,3,4,2,1]
 }
