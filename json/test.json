@@ -6,5 +6,6 @@
   "alumnes" : ["6789L","6111R","2657K","8967D","4357E","1188J","2834A","9423S","7655N","3375C"],
   "dadesN": [],
   "dadesS": ["K","W","H","B","W","N","Z","W","K","F"],
-  "dadesSR": ["Arxiu de proves","Arxiu de proves","Arxiu de proves","Arxiu de proves","Arxiu de proves","Arxiu de proves","Arxiu de proves","Arxiu de proves","Arxiu de proves","Arxiu de proves"]
+  "dadesSR": ["Arxiu de proves","Arxiu de proves","Arxiu de proves","Arxiu de proves","Arxiu de proves",
+              "Arxiu de proves","Arxiu de proves","Arxiu de proves","Arxiu de proves","Arxiu de proves"]
 }
