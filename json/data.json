@@ -3,8 +3,8 @@
   "professor": "Isaac Gonzalez & Frances Delis",
   "modul": "1er CFGS ARI MP10",
   "tipusdades": "Nota final del modul",
-  "alumnes" : [],
+  "alumnes" : ["8730L","3505Q","9487G","4665B","4723F","2592G","0249C","1079J","5185D","7948R","1098G","9207F","6038M","2732L","1197F","8170N","8170N","6411Z","3733P"],
   "dadesN": [],
-  "dadesS": [],
-  "dadesSR": []
+  "dadesS": ["X","B","W","B","L","F","P","W","K","W","B","F","F","W","W","W","L","X","W"],
+  "dadesSR": ["","","Per recuperar has de respetir l'examen final","","Per recuperar has de respetir l'examen final","","","Per recuperar has de respetir l'examen final","Per recuperar has de respetir l'examen final","Per recuperar has de respetir l'examen final","","","","Per recuperar has de respetir l'examen final","Per recuperar has de respetir l'examen final","Per recuperar has de respetir l'examen final","Per recuperar has de respetir l'examen final","","Per recuperar has de respetir l'examen final"]
 }
